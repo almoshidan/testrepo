@@ -69,7 +69,7 @@ for (let i = 0; i < bestSellingAlbums.length; i++) {
 }
 averageAge /= bestSellingAlbums.length;
 let currentYear = 2022;
-//console.log(currentYear - averageAge);
+console.log(currentYear - averageAge);
 
 
 for (let currentElement of bestSellingAlbums) {
