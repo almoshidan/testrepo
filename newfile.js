@@ -15,3 +15,12 @@ console.log (avg);
 let average2=average;
 
 console.log (average2([1,2,3]))
+
+
+function repeatStr (n, s) {
+    let result="";
+    for(let i=0; i<n; i++ ){
+      result += n;
+    }
+    return result;
+};
